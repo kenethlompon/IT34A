@@ -1,0 +1,9 @@
+body{
+    background: url(dashboard.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+}
